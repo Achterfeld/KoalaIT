@@ -1,3 +1,14 @@
 Our company :
     We are creating websites for all the animals of the world.
-    By choosing us, you'll get all the attention a Koala can give you. We are reaching the best quality and a matching page with your wants
+    By choosing us, you'll get all the attention a Koala can give you.
+    We are reaching the best quality and a matching page with your wants.
+
+
+Our members :
+    - John : 
+        CEO 
+        First brick of the team, he is the big chief. As a former web designer, he has practice all the web technologies, (HTML, CSS, JS, server side programming)
+    - Brik :
+        Web designer for 10 years, he has a lot of knowledge in the techs used in this domain
+    - Dow :
+        Designer : Graduated from an aplied art school, he drew a lot of known adds, often seen in tv spots
