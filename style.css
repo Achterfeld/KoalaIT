@@ -73,6 +73,7 @@ p {
     color: #fff;
     margin: 0.5em;
     border-radius: 10px;
+    overflow: auto;
 }
 
 .front,
@@ -171,4 +172,8 @@ p {
 
 #container section {
     width: 95%;
+}
+
+section p {
+    text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
 }
