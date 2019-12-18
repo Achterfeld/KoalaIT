@@ -151,6 +151,7 @@ p {
     width: 100%;
     max-width: 650px;
     text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+    line-height: 84px;
 }
 
 #second-page-button {
