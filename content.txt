@@ -1,9 +1,22 @@
-Our company :
+The company :
     We are creating websites for all the animals of the world.
-    By choosing us, you'll get all the attention a Koala can give you.
+    By choosing us, you will get all the attention a Koala can give you.
     We are reaching the best quality and a matching page with your wants.
 
+The position :
+    
+    We are looking for a strong technical hands-on Modernization Engineer that is adverse in C/C++ and ProC. The candidate will be working together with the client’s Application and Business teams to build, enhance and modernize legacy applications. The candidate will be responsible for design, development, documentation and testing of developed components. The candidate will collaborate with project management, development and testing resources throughout all of the SDLC. The ideal candidate has a strong and proven track record of building and modernizing applications built on legacy technologies such as C/C++ and ProC. Lastly, the candidate must have excellent communication skills and must be able to work independently as well as in a team structure in an effective manner.
 
+The location :
+
+    Our company is based in Montreal, Quebec, Canada.
+
+Why should apply ?
+
+    Rapidly growing companies offer great opportunities for development. With us, you will have the opportunity to develop freely. Would you like to build up the financial services industry? Would you like to set up an office in Hamburg? Would you like to promote foreign expansion? Wonderful. Let's talk about the steps which are necessary to implement your plans.
+    If you join us, this means that we believe you have the potential to take on responsibility in the short to medium-term, and even to become a partner.
+
+There are many reasons to work with us. We look forward to hearing from you.    
 Our members :
     - John : 
         CEO 
