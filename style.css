@@ -38,12 +38,16 @@ p {
 	margin-right: 12%;
 	color : white;
 }
+
 #container {
 	margin-top: 5%;
 	margin-left: 20%;
 	margin-right: 20%;
 }
 
-#company {
-	background-color: #; 
+#slide {
+	background-image: url("img/Koala_big.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
 }
