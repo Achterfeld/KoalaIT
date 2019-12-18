@@ -50,6 +50,7 @@ p {
 	background-position: center;
 	background-size: cover;
 	height: 100vh;
+	position: relative;
 }
 
 #slide-logo {
@@ -62,10 +63,25 @@ p {
 
 #slide-logo-image {
 	height: 125px;
+	filter: drop-shadow(rgba(0, 0, 0, 0.5) 0px 0px 10px);
 }
 
 #slide-logo-label {
 	color: white;
 	font-weight: bold;
 	font-size: 49px;
+	text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+}
+
+#slide-slogan {
+	color: white;
+	font-weight: bold;
+	font-size: 80px;
+	position: absolute;
+	bottom: 80px;
+	right: 80px;
+	text-align: right;
+	width: 100%;
+	max-width: 650px;
+	text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
 }
