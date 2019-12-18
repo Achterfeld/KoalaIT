@@ -50,20 +50,18 @@ p {
 	background-position: center;
 	background-size: cover;
 	height: 100vh;
-	position: relative;
 }
 
 #slide-logo {
-	position: relative;
-	top: 30px;
-	left: 10px;
-	display: inline-flex;
+	display: flex;
 	align-items: center;
+	padding: 50px 120px 0px 40px;
 }
 
 #slide-logo-image {
 	height: 125px;
 	filter: drop-shadow(rgba(0, 0, 0, 0.5) 0px 0px 10px);
+	margin-right: 30px;
 }
 
 #slide-logo-label {
@@ -71,6 +69,7 @@ p {
 	font-weight: bold;
 	font-size: 49px;
 	text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+	margin-right: auto;
 }
 
 #slide-slogan {
@@ -84,4 +83,20 @@ p {
 	width: 100%;
 	max-width: 650px;
 	text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+}
+
+#second-page-button {
+	font-size: 26px;
+	color: white;
+	border: solid 3px white;
+	font-weight: bold;
+	padding: 5px 30px;
+	border-radius: 7px;
+	text-decoration: none;
+	transition: 300ms;
+}
+
+#second-page-button:hover {
+	background: white;
+	color: #83b1d3;
 }
