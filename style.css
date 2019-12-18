@@ -1,102 +1,174 @@
 @font-face {
-	font-family: open-sans;
-	src: url("fonts/OpenSans-Regular.ttf");
+    font-family: open-sans;
+    src: url("fonts/OpenSans-Regular.ttf");
 }
 
 @font-face {
-	font-family: open-sans;
-	font-weight: bold;
-	src: url("fonts/OpenSans-Bold.ttf");
+    font-family: open-sans;
+    font-weight: bold;
+    src: url("fonts/OpenSans-Bold.ttf");
 }
 
 body {
-	margin: 0px;
-	font-family: open-sans;
-	background-color: #26596A;
+    margin: 0px;
+    font-family: open-sans;
+    background-color: #83b1d3;
 }
 
 #company-name {
-	background: grey;
-	color: white;
-	font-size: 20em;
-	text-align: right;
-	display: flex; 
+    background: grey;
+    color: white;
+    font-size: 5em;
+    width: 100%;
+    text-align: right;
+    display: flex;
+}
+
+#company-name a {
+    color: #fff;
+    text-decoration: none;
 }
 
 h1 {
-	color : #022835;
-	margin-left: 5%;
+    color: #022835;
+    margin-left: 5%;
 }
 
 h3 {
-	margin-left: 7%;
-	color: #FFBF00;	
+    margin-left: 7%;
+    color: #FFE760;
 }
 
 p {
-	margin-left: 12%;
-	margin-right: 12%;
-	color : white;
+    margin-left: 12%;
+    margin-right: 12%;
+    color: white;
 }
 
 #container {
-	margin-top: 5%;
-	margin-left: 20%;
-	margin-right: 20%;
+    padding: 5%;
+}
+
+#company {}
+
+#banner {
+    font-size: 2em;
+    color: #fff;
+    background: #0003;
+    padding: 1em 0.5em;
+    -moz-box-shadow: 0px 10px 10px 0px #0003;
+    -webkit-box-shadow: 0px 10px 10px 0px #0003;
+    -o-box-shadow: 0px 10px 10px 0px #0003;
+    box-shadow: 0px 10px 10px 0px #0003;
+}
+
+.box {
+    display: flex;
+    background: #4a69bd;
+    padding: 1em;
+    width: 50vw;
+    height: 50vw;
+    max-height: 40vh;
+    max-width: 40vh;
+    min-width: 10em;
+    color: #fff;
+    margin: 0.5em;
+    border-radius: 10px;
+}
+
+.front,
+.back {
+    width: 100%;
+    transition: 1s;
+    text-align: center;
+}
+
+.front {
+    display: block;
+}
+
+.back {
+    display: none;
+}
+
+.front {
+    font-size: 200%;
+}
+
+.box:hover .front,
+.box:hover .back {
+    transition: 1s;
+}
+
+.box:hover .front {
+    display: none;
+}
+
+.box:hover .back {
+    display: block;
+}
+
+#boxes {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 #slide {
-	background-image: url("img/Koala_big.jpg");
-	background-position: center;
-	background-size: cover;
-	height: 100vh;
+    background-image: url("img/Koala_big.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
 }
 
 #slide-logo {
-	display: flex;
-	align-items: center;
-	padding: 50px 120px 0px 40px;
+    display: flex;
+    align-items: center;
+    padding: 50px 120px 0px 40px;
 }
 
 #slide-logo-image {
-	height: 125px;
-	filter: drop-shadow(rgba(0, 0, 0, 0.5) 0px 0px 10px);
-	margin-right: 30px;
+    height: 125px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.5) 0px 0px 10px);
+    margin-right: 30px;
 }
 
 #slide-logo-label {
-	color: white;
-	font-weight: bold;
-	font-size: 49px;
-	text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
-	margin-right: auto;
+    color: white;
+    font-weight: bold;
+    font-size: 49px;
+    text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+    margin-right: auto;
 }
 
 #slide-slogan {
-	color: white;
-	font-weight: bold;
-	font-size: 80px;
-	position: absolute;
-	bottom: 80px;
-	right: 80px;
-	text-align: right;
-	width: 100%;
-	max-width: 650px;
-	text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 80px;
+    position: absolute;
+    bottom: 80px;
+    right: 80px;
+    text-align: right;
+    width: 100%;
+    max-width: 650px;
+    text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
 }
 
 #second-page-button {
-	font-size: 26px;
-	color: white;
-	border: solid 3px white;
-	font-weight: bold;
-	padding: 5px 30px;
-	border-radius: 7px;
-	text-decoration: none;
-	transition: 300ms;
+    font-size: 26px;
+    color: white;
+    border: solid 3px white;
+    font-weight: bold;
+    padding: 5px 30px;
+    border-radius: 7px;
+    text-decoration: none;
+    transition: 300ms;
 }
 
 #second-page-button:hover {
-	background: white;
-	color: #83b1d3;
+    background: white;
+    color: #83b1d3;
+}
+
+#container section {
+    width: 95%;
 }
