@@ -1,28 +1,42 @@
-The company :
-    We are creating websites for all the animals of the world.
+The company:
+    We are creating websites for all size company of the world.
     By choosing us, you will get all the attention a Koala can give you.
-    We are reaching the best quality and a matching page with your wants.
+    We are reaching the best quality and to be matching with your wants.
 
-The position :
+The position:
     
-    We are looking for a strong technical hands-on Modernization Engineer that is adverse in C/C++ and ProC. The candidate will be working together with the client’s Application and Business teams to build, enhance and modernize legacy applications. The candidate will be responsible for design, development, documentation and testing of developed components. The candidate will collaborate with project management, development and testing resources throughout all of the SDLC. The ideal candidate has a strong and proven track record of building and modernizing applications built on legacy technologies such as C/C++ and ProC. Lastly, the candidate must have excellent communication skills and must be able to work independently as well as in a team structure in an effective manner.
+    We are looking for a strong technical hands-on Modernization Engineer that is qualified in C/C++ and ProC.
+    The candidate will be working together with the client’s Application and Business teams to build, enhance and modernize legacy applications.
+    The candidate will be responsible for design, development, documentation and testing of developed components.
+    The candidate will collaborate with project management, development and testing throughout all of the systems development life cycle.
+    The ideal candidate has a strong and proven track record of building and modernizing applications built on technologies such as C/C++ and ProC.
+    Lastly, the candidate must have excellent communication skills and must be able to work independently as well as in a team structure in an effective manner.
 
-The location :
+The location:
 
     Our company is based in Montreal, Quebec, Canada.
 
-Why should apply ?
+Why should apply?
 
-    Rapidly growing companies offer great opportunities for development. With us, you will have the opportunity to develop freely. Would you like to build up the financial services industry? Would you like to set up an office in Hamburg? Would you like to promote foreign expansion? Wonderful. Let's talk about the steps which are necessary to implement your plans.
-    If you join us, this means that we believe you have the potential to take on responsibility in the short to medium-term, and even to become a partner.
+    Rapidly growing companies offer great opportunities for development.
+    With us, you will have the opportunity to develop freely.
+    Would you like to build up the financial services industry? Would you like to set up an office in Hamburg? Would you like to promote foreign expansion?
+    Let's talk about the steps which are necessary to implement your plans.
+    If you join us, this means that we believe you have the potential to take on responsibilities in the short to medium-term, and even to become a partner.
 
-There are many reasons to work with us. We look forward to hearing from you.    
+    There are many reasons to work with us.
+    We look forward to hearing from you.
+   
 
-Our members :
-    - John : 
+Our members:
+    - John: 
         CEO 
-        First brick of the team, he is the big chief. As a former web designer, he has practice all the web technologies, (HTML, CSS, JS, server side programming)
-    - Brik :
-        Web designer for 10 years, he has a lot of knowledge in the techs used in this domain
-    - Dow :
-        Designer : Graduated from an aplied art school, he drew a lot of known adds, often seen in tv spots
+        First brick of the team, he is "the big chief".
+        As a former web designer, he had practiced all the web technologies (HTML, CSS, JS, server-side programming)
+    - Brik:
+        Web designer for 10 years, he has a lot of knowledge in the techs used in this topic.
+        His last job was in a big web company but KoalaIT seemed to be better for his way to work because of the more casual style that we have at KoalaIT.
+    - Dow:
+        Designer: Graduated from an applied art school, he drew a lot of known adds, often seen in tv spots.
+        Dow is the person that you need in your team when you begin a project, explain what you dream about then Dow will put it on paper.
+        
