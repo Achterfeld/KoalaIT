@@ -1,4 +1,4 @@
 # KoalaIT
 A web site for fake company KoalaIT.
 
-An great company that works in IT
+A great company that works in IT and looks for new applicant
